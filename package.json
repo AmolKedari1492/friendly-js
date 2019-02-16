@@ -1,0 +1,26 @@
+{
+  "name": "@amolkedari/friendly-js",
+  "version": "1.0.0",
+  "description": "Javascript utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmolKedari1492/friendly-js.git"
+  },
+  "keywords": [
+    "friendly",
+    "friendly-js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C",
+    "js",
+    "friendly",
+    "friendly-js"
+  ],
+  "author": "Amol Kedari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmolKedari1492/friendly-js/issues"
+  },
+  "homepage": "https://github.com/AmolKedari1492/friendly-js#readme"
+}
